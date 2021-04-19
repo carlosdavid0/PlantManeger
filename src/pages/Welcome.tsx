@@ -22,8 +22,6 @@ export function Welcome() {
             <Button title=">" />
 
 
-
-
         </SafeAreaView>
     )
 
